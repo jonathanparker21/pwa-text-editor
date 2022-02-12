@@ -12,7 +12,7 @@ const initdb = async () =>
     },
   });
 
-  // Method that takes some content and adds it to the IndexedDB database using the idb module
+// Method that takes some content and adds it to the IndexedDB database using the idb module
 export const putDb = async (content) => {
   console.log('PUT to the database');
   const jateDb = await openDB('jate', 1);
@@ -34,8 +34,8 @@ export const getDb = async () => {
   result
     ? console.log(':rocket: - data retrieved from the database', result.value)
     : console.log(':rocket: - data not found in the database');
-  
-    // Check if a variable is defined and if it is, return it. See MDN Docs on Optional Chaining (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
+
+  // Check if a variable is defined and if it is, return it. See MDN Docs on Optional Chaining (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
   return result?.value;
 };
 
