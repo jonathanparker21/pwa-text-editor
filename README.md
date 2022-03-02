@@ -1,10 +1,14 @@
 # pwa-text-editor
 
 ## purpose  
-The purpose of this homework was to create a text editor that meets PWA criteria. Using IndexedDB, service worker, a manifest file and a webpack, we built a text editor applicaiton that runs in the browser and is functional whether the client is online or offline.  
+The purpose of this homework was to create a text editor that meets PWA criteria. Using IndexedDB, service worker, a manifest file and a webpack, we built a text editor application that runs in the browser and is functional whether the client is online or offline.  
 
 ## heroku deployment  
 
+
+
+## tips
+If you're having trouble getting the app to work, try manually clearing your browser's cache.
 
 
 ---
