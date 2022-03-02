@@ -6,6 +6,8 @@ The purpose of this homework was to create a text editor that meets PWA criteria
 ## heroku deployment  
 
 
-## credits 2022
-Jonathan Parker  
-Northwestern Coding Bootcamp - class code-along homework assignment
+
+---
+## credits
+@ 2022 Jonathan Parker  
+Northwestern Coding Bootcamp | class code-along homework assignment
