@@ -10,4 +10,4 @@ The purpose of this homework was to create a text editor that meets PWA criteria
 ---
 ## credits
 @ 2022 Jonathan Parker  
-Northwestern Coding Bootcamp | class code-along homework assignment
+Northwestern Coding Bootcamp | class code-along homework assignment with okay of instructor
